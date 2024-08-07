@@ -1,1 +1,1 @@
-# Azure-DE-Project-Case-Study
+# Azure Data Engineering Case Study
