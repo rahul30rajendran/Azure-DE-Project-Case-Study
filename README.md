@@ -157,4 +157,4 @@ Example Visualizations:
 -   **Sales by Region and Product**: A bar chart comparing sales
     performance across different regions and products.
 
-**Download the data files from here: https://github.com/parveenkrraina/Azure-DE-Project-Case-Study/tree/main/sales_data**
+<a href="https://github.com/parveenkrraina/Azure-DE-Project-Case-Study/tree/main/sales_data"> Click here to download the data files.</a>
